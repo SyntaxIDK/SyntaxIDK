@@ -4,8 +4,7 @@ Hi there! I'm **Kaveesha Senarathne**, a passionate **Full-Stack Developer** cur
 
 **About Me:**  
 - 🚀 Full-Stack Developer | MERN, Mobile/Web Apps & Magento Enthusiast  
-- 🎓 Studying Computer Science at Staffordshire University  
-- 🎥 Creating programming content on YouTube: [CodeRizz](https://www.youtube.com/@CodeRizz)  
+- 🎓 Studying Computer Science at Staffordshire University   
 - 💡 Passionate about **web/ software development, DevOps, and open-source contributions**  
 
 **Connect with Me:**  
